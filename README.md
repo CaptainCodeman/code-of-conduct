@@ -1,4 +1,4 @@
-# CaptainCodeman Code-of-Conduct
+# Code-of-Conduct
 
 This policy is designed to maintain a strictly technical focus while actively discouraging the types of social and political discussions that sometimes occur in open source communities.
 
