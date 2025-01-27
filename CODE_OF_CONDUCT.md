@@ -2,7 +2,7 @@
 
 ## Our Pledge
 
-We as authors and contributors pledge to make participation in our community a harassment-free experience for everyone, regardless of who you are or what you think. That means age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation confer no special privileges or preferences in how you are treated and can behave toward others. In fact, we have no interest in you sharing _any_ personal characteristics unless it is directly relevant to the software (e.g. an accessibility issue).
+We as authors and contributors pledge to make participation in our community a harassment-free experience for everyone, regardless of who you are or what you think. That means age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, political affiliation, personal appearance, race, caste, color, religion, or sexual identity and orientation confer no special privileges or preferences in how you are treated and can behave toward others. In fact, we have no interest in you sharing _any_ personal characteristics unless it is directly relevant to the software (e.g. an accessibility issue).
 
 All we care about is the software.
 
